@@ -15,7 +15,7 @@ if os.path.exists('README.md'):
 VERSION = beyonic.__version__
 
 setup(
-    name="beyonic",
+    name="beyonic3",
     version=VERSION,
     description="The official Python client for the Beyonic.com API",
     author="Beyonic",
